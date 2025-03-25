@@ -15,9 +15,9 @@ Vide tutoriais do PI.
 
 ## Nome do Grupo
 
-## Integrantes: <a href="https://www.linkedin.com/in/victorbarq/">Goku Sayajin</a>, <a href="https://www.linkedin.com/in/victorbarq/">Saitama One</a>, <a href="https://www.linkedin.com/in/victorbarq/">Ikki de Fenix</a>, <a href="https://www.linkedin.com/in/victorbarq/">Yusuke Urameshi</a>, <a href="https://www.linkedin.com/in/victorbarq/">Roronoa Zoro</a>
+## Integrantes: <a href="https://www.linkedin.com/in/victorbarq/">Anderson Yavi Fernandez</a>, <a href="https://www.linkedin.com/in/victorbarq/">Gabriel Gonçalves Pires</a>, <a href="https://www.linkedin.com/in/victorbarq/">Kaique Neres de Oliveira</a>, <a href="https://www.linkedin.com/in/victorbarq/">Luiz Felipe Galdino de Carvalho</a>.
 
-## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Dr. Victor Von Doom</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Saitama</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Strange</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Yoda</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Gero</a>
+## Professores Orientadores: <a href="https://www.linkedin.com/in/vheltai/">Vinicius Heltai</a>, <a href="https://www.linkedin.com/in/aimarlopes/">Aimar Lopes</a>, <a href="https://www.linkedin.com/in/francisco-escobar/">Francisco Escobar</a>.
 
 ## Descrição
 
@@ -117,7 +117,3 @@ Aqui estão as referências usadas no projeto.
 4. <https://freesound.org/>
 5. <https://www.toptal.com/developers/gitignore>
 6. Músicas por: <a href="https://freesound.org/people/DaveJf/sounds/616544/"> DaveJf </a> e <a href="https://freesound.org/people/DRFX/sounds/338986/"> DRFX </a> ambas com Licença CC 0.
-=======
-FECAP - Fundação Escola de Comércio Álvares Penteado
-![image](https://github.com/user-attachments/assets/f89038ca-889e-40c5-8b2f-02205a1d3e51)
->>>>>>> 90765a9afbc29c19116c39983676cea128f235c4
