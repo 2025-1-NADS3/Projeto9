@@ -21,7 +21,6 @@
 </p>
 
 
-De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
 <br><br>
 Este projeto tem como intenção facilitar os pagamentos universitários.
 <br><br>
