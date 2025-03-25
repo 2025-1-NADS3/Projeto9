@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-```sh
-Utilize o site <https://www.toptal.com/developers/gitignore> para gerar seu arquivo gitignore e apague este campo.
-
-Vide tutoriais do PI.
-```
 
 # FECAP - Fundação de Comércio Álvares Penteado
 
@@ -15,23 +9,22 @@ Vide tutoriais do PI.
 
 ## Nome do Grupo
 
-## Integrantes: <a href="https://www.linkedin.com/in/victorbarq/">Anderson Yavi Fernandez</a>, <a href="https://www.linkedin.com/in/victorbarq/">Gabriel Gonçalves Pires</a>, <a href="https://www.linkedin.com/in/victorbarq/">Kaique Neres de Oliveira</a>, <a href="https://www.linkedin.com/in/victorbarq/">Luiz Felipe Galdino de Carvalho</a>.
+## Integrantes: <a href="https://www.linkedin.com/in/anderson-fernandez-2aa13924b/">Anderson Yavi Fernandez</a>, <a href="https://www.linkedin.com/in/gabriel-pires-2082b473/">Gabriel Gonçalves Pires</a>, <a href="https://www.linkedin.com/in/kaique-neres-0413a8265/">Kaique Neres de Oliveira</a>, <a href="https://www.linkedin.com/in/luizfelipegcarvalho/">Luiz Felipe Galdino de Carvalho</a>.
 
-## Professores Orientadores: <a href="https://www.linkedin.com/in/vheltai/">Vinicius Heltai</a>, <a href="https://www.linkedin.com/in/aimarlopes/">Aimar Lopes</a>, <a href="https://www.linkedin.com/in/francisco-escobar/">Francisco Escobar</a>.
+## Professores Orientadores: <a href="https://www.linkedin.com/in/vheltai/">Vinicius Heltai</a>, <a href="https://www.linkedin.com/in/aimarlopes/">Aimar Lopes</a>, <a href="https://www.linkedin.com/in/francisco-escobar/">Francisco Escobar</a>, <a href="https://www.linkedin.com/in/jefferson-o-silva/">Jefferson de Oliveira Silva</a>.
 
 ## Descrição
 
 <p align="center">
-<img src="https://pix4free.org/assets/library/2021-01-20/originals/game.jpg" alt="NOME DO JOGO" border="0">
-  Game by <a href="http://www.nyphotographic.com/">Nick Youngson</a> <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> <a href="http://pix4free.org/">Pix4free</a>
+<img src="![image](https://github.com/user-attachments/assets/2ac2527c-92fc-4658-94ba-122da536db0e)" alt="NEON ACADEMY" border="0">
+  
 </p>
 
 
-De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
 <br><br>
-Meu projeto ajuda estudantes FECAP a configurarem seus githubs.
+Este projeto tem como intenção facilitar os pagamentos universitários.
 <br><br>
-May the force be with you!
+May the force be with us!
 <br><br>
 
 ## 🛠 Estrutura de pastas
@@ -105,7 +98,7 @@ Coloque código do prompt de comnando se for necessário
 ```
 
 ## 📋 Licença/License
-Utilize o link <https://chooser-beta.creativecommons.org/> para fazer uma licença CC BY 4.0.
+Neon Academy © 2025 by FECAP; Gabriel Gonçalves Pires; Anderson Yavi Fernandez; Kaique Neres de Oliveira; Luiz Felipe Galdino de Carvalho; is licensed under CC BY 4.0 
 
 ## 🎓 Referências
 
