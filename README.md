@@ -105,7 +105,7 @@ Coloque código do prompt de comnando se for necessário
 ```
 
 ## 📋 Licença/License
-Utilize o link <https://chooser-beta.creativecommons.org/> para fazer uma licença CC BY 4.0.
+Neon Academy © 2025 by FECAP; Gabriel Gonçalves Pires; Anderson Yavi Fernandez; Kaique Neres de Oliveira; Luiz Felipe Galdino de Carvalho; is licensed under CC BY 4.0 
 
 ## 🎓 Referências
 
