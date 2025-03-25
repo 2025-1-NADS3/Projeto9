@@ -17,7 +17,7 @@ Vide tutoriais do PI.
 
 ## Integrantes: <a href="https://www.linkedin.com/in/victorbarq/">Anderson Yavi Fernandez</a>, <a href="https://www.linkedin.com/in/victorbarq/">Gabriel Gonçalves Pires</a>, <a href="https://www.linkedin.com/in/victorbarq/">Kaique Neres de Oliveira</a>, <a href="https://www.linkedin.com/in/victorbarq/">Luiz Felipe Galdino de Carvalho</a>.
 
-## Professores Orientadores: <a href="https://www.linkedin.com/in/vheltai/">Vinicius Heltai</a>, <a href="https://www.linkedin.com/in/aimarlopes/">Aimar Lopes</a>, <a href="https://www.linkedin.com/in/francisco-escobar/">Francisco Escobar</a>, <a href="https://www.linkedin.com/in/francisco-escobar/">Jefferson de Oliveira Silva</a>.
+## Professores Orientadores: <a href="https://www.linkedin.com/in/vheltai/">Vinicius Heltai</a>, <a href="https://www.linkedin.com/in/aimarlopes/">Aimar Lopes</a>, <a href="https://www.linkedin.com/in/francisco-escobar/">Francisco Escobar</a>, <a href="https://www.linkedin.com/in/jefferson-o-silva/">Jefferson de Oliveira Silva</a>.
 
 ## Descrição
 
