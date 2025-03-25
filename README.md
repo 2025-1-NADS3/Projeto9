@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ```sh
 Utilize o site <https://www.toptal.com/developers/gitignore> para gerar seu arquivo gitignore e apague este campo.
 
@@ -116,3 +117,7 @@ Aqui estão as referências usadas no projeto.
 4. <https://freesound.org/>
 5. <https://www.toptal.com/developers/gitignore>
 6. Músicas por: <a href="https://freesound.org/people/DaveJf/sounds/616544/"> DaveJf </a> e <a href="https://freesound.org/people/DRFX/sounds/338986/"> DRFX </a> ambas com Licença CC 0.
+=======
+FECAP - Fundação Escola de Comércio Álvares Penteado
+![image](https://github.com/user-attachments/assets/f89038ca-889e-40c5-8b2f-02205a1d3e51)
+>>>>>>> 90765a9afbc29c19116c39983676cea128f235c4
