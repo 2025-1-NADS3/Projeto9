@@ -60,7 +60,7 @@ Há também 4 pastas que seguem da seguinte forma:
 
 ## 📄 Protótipo no Figma 
 
-Você pode visualizar o protótipo do projeto [aqui]([[https://www.figma.com/design/2f2lzpHfLMNlusgG5rTXE3/Untitled?node-id=0-1](https://www.figma.com/proto/UmV8keR5ZZqUGu2vGL8hD1/Untitled?node-id=0-1&t=VYGkiwPkc9kTqhuw-1)] para conferir o design e a interação.
+Você pode visualizar o protótipo do projeto: https://www.figma.com/proto/UmV8keR5ZZqUGu2vGL8hD1/Untitled?node-id=0-1&t=VYGkiwPkc9kTqhuw-1 para conferir o design e a interação.
 
 
 ## ✔ Linguagens e Tecnologias Usadas
