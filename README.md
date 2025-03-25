@@ -15,7 +15,7 @@ Vide tutoriais do PI.
 
 ## Nome do Grupo
 
-## Integrantes: <a href="https://www.linkedin.com/in/anderson-fernandez-2aa13924b/">Anderson Yavi Fernandez</a>, <a href="https://www.linkedin.com/in/gabriel-pires-2082b473/">Gabriel Gonçalves Pires</a>, <a href="https://www.linkedin.com/in/victorbarq/">Kaique Neres de Oliveira</a>, <a href="https://www.linkedin.com/in/luizfelipegcarvalho/">Luiz Felipe Galdino de Carvalho</a>.
+## Integrantes: <a href="https://www.linkedin.com/in/anderson-fernandez-2aa13924b/">Anderson Yavi Fernandez</a>, <a href="https://www.linkedin.com/in/gabriel-pires-2082b473/">Gabriel Gonçalves Pires</a>, <a href="https://www.linkedin.com/in/kaique-neres-0413a8265/">Kaique Neres de Oliveira</a>, <a href="https://www.linkedin.com/in/luizfelipegcarvalho/">Luiz Felipe Galdino de Carvalho</a>.
 
 ## Professores Orientadores: <a href="https://www.linkedin.com/in/vheltai/">Vinicius Heltai</a>, <a href="https://www.linkedin.com/in/aimarlopes/">Aimar Lopes</a>, <a href="https://www.linkedin.com/in/francisco-escobar/">Francisco Escobar</a>, <a href="https://www.linkedin.com/in/jefferson-o-silva/">Jefferson de Oliveira Silva</a>.
 
