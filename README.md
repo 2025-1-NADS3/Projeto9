@@ -58,44 +58,74 @@ Há também 4 pastas que seguem da seguinte forma:
 
 <b>src</b>: Pasta que contém o código fonte.
 
-## 🛠 Instalação
+## 📄 Protótipo no Figma 
 
-<b>Android:</b>
+Você pode visualizar o protótipo do projeto [aqui]([https://www.figma.com/design/2f2lzpHfLMNlusgG5rTXE3/Untitled?node-id=0-1](https://www.figma.com/proto/UmV8keR5ZZqUGu2vGL8hD1/Untitled?node-id=0-1&t=VYGkiwPkc9kTqhuw-1)) para conferir o design e a interação.
 
-Faça o Download do JOGO.apk no seu celular.
-Execute o APK e siga as instruções de seu telefone.
 
-```sh
-Coloque código do prompt de comnando se for necessário
-```
+## ✔ Linguagens e Tecnologias Usadas
 
-<b>Windows:</b>
+<div style="display: flex; align-items: center;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" height="40" alt="Android Studio" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40" alt="SQLite" />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.0/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" //>
+</div>
 
-Não há instalação! Apenas executável!
-Encontre o JOGO.exe na pasta executáveis e execute-o como qualquer outro programa.
 
-```sh
-Coloque código do prompt de comnando se for necessário
-```
+<h2>💻 Configuração para Desenvolvimento</h2>
 
-<b>HTML:</b>
+<h3>🚀 Passo a Passo para Configurar o Android Studio</h3>
+<ol>
+  <li><b>Instale o Android Studio</b><br>
+    Acesse <a href="https://developer.android.com/studio" target="_blank">developer.android.com/studio</a> e baixe a versão mais recente para seu sistema operacional. 
+  </li>
+  <li><b>Configuração Inicial</b><br>
+    Após instalar, abra o Android Studio e siga as instruções para configurar o ambiente de desenvolvimento, incluindo a instalação do SDK do Android.
+  </li>
+  <li><b>Crie um Novo Projeto</b><br>
+    No Android Studio, clique em <code>Start a new Android Studio project</code>, escolha um modelo de atividade e configure as opções do projeto.
+  </li>
+  <li><b>Execute o Projeto</b><br>
+    Conecte um dispositivo físico via USB ou use o emulador do Android Studio para testar o aplicativo. Clique em "Run" (ícone ▶️) para iniciar o app.
+  </li>
+</ol>
 
-Não há instalação!
-Encontre o index.html na pasta executáveis e execute-o como uma página WEB (através de algum browser).
+<hr>
 
-## 💻 Configuração para Desenvolvimento
+<h3>🔧 Ferramentas de Desenvolvimento:</h3>
 
-Descreva como instalar todas as dependências para desenvolvimento e como rodar um test-suite automatizado de algum tipo. Se necessário, faça isso para múltiplas plataformas.
+<h4>1. IDE e Editor de Código 🖥️</h4>
+<ul>
+  <li><b>Android Studio</b>: Ambiente oficial para desenvolvimento Android, com suporte a Kotlin e Java.</li>
+</ul>
 
-Para abrir este projeto você necessita das seguintes ferramentas:
+<h4>2. Versionamento de Código 🗂️</h4>
+<ul>
+  <li><b>Git</b>: Sistema de controle de versão para gerenciar alterações e colaborar com a equipe.</li>
+  <li><b>GitHub</b>: Hospedagem de repositórios para colaboração e gerenciamento do projeto.</li>
+</ul>
 
--<a href="https://godotengine.org/download">GODOT</a>
+<h4>3. Banco de Dados 🛠️</h4>
+<ul>
+  <li><b>SQLite</b>: Banco de dados leve e integrado ao Android para armazenamento local.</li>
+</ul>
 
-```sh
-make install
-npm test
-Coloque código do prompt de comnando se for necessário
-```
+<h4>4. Linguagem de Programação 🖥️</h4>
+<ul>
+  <li><b>Java</b>: Uma das principais linguagens para desenvolvimento de aplicativos Android.</li>
+</ul>
+
+<h4>5. Sistema Operacional 🖥️</h4>
+<ul>
+  <li><b>Windows, macOS ou Linux</b>: O Android Studio é compatível com os três sistemas.</li>
+</ul>
+
+<h4>6. Ferramentas de Design 🎨</h4>
+<ul>
+  <li><b>Figma</b>: Para prototipagem e design de interface do usuário.</li>
+  <li><b>Canva</b>: Para criação de ícones, banners e materiais visuais adicionais.</li>
+</ul>
 
 ## 📋 Licença/License
 Neon Academy © 2025 by FECAP; Gabriel Gonçalves Pires; Anderson Yavi Fernandez; Kaique Neres de Oliveira; Luiz Felipe Galdino de Carvalho; is licensed under CC BY 4.0 
