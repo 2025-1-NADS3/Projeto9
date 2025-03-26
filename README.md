@@ -23,7 +23,6 @@
 <br><br>
 Este projeto tem como intenção facilitar os pagamentos universitários.
 <br><br>
-May the force be with us!
 <br><br>
 
 ## 🛠 Estrutura de pastas
