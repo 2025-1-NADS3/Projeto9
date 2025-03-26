@@ -16,7 +16,7 @@
 ## Descrição
 
 <p align="center">
-<img src="![image](https://github.com/user-attachments/assets/2ac2527c-92fc-4658-94ba-122da536db0e)" alt="NEON ACADEMY" border="0">
+<img src="![image]" alt="NEON ACADEMY" border="0">
   
 </p>
 
