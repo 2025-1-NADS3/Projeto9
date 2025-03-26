@@ -16,7 +16,7 @@
 ## Descrição
 
 <p align="center">
-  <a href= "https://www.fecap.br/"><img src="![image] (https://github.com/user-attachments/assets/2ac2527c-92fc-4658-94ba-122da536db0e)" alt="NEON ACADEMY" border="0"></a>
+  <a href= ""><img src="![image] (https://github.com/user-attachments/assets/2ac2527c-92fc-4658-94ba-122da536db0e)" alt="NEON ACADEMY" border="0"></a>
 
 </p>
 
