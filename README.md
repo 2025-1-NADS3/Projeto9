@@ -21,7 +21,7 @@
 </p>
 
 <br><br>
-Este projeto tem como intenção facilitar os pagamentos universitários.
+Este projeto tem como intenção facilitar os pagamentos acadêmicos, tornando a vida dos universitários mais fácil e prática.
 <br><br>
 <br><br>
 
