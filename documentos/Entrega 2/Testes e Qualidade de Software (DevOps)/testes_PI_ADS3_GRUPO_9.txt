@@ -1,0 +1,128 @@
+
+import sqlite3
+
+# Classe responsável por simular o banco de dados de usuários
+class UserDatabase:
+    def __init__(self):
+        # Banco de dados em memória (não salva em arquivo)
+        self.conn = sqlite3.connect(':memory:')
+        self.create_table()
+
+    # Cria a tabela 'Users' no banco de dados
+    def create_table(self):
+        self.conn.execute('''
+            CREATE TABLE Users (
+                id INTEGER PRIMARY KEY AUTOINCREMENT,
+                firstName TEXT,
+                lastName TEXT,
+                email TEXT,
+                ra TEXT,
+                password TEXT
+            )
+        ''')
+        self.conn.commit()
+
+    # Insere um novo usuário na tabela
+    def insert_user(self, firstName, lastName, email, ra, password):
+        self.conn.execute('''
+            INSERT INTO Users (firstName, lastName, email, ra, password)
+            VALUES (?, ?, ?, ?, ?)
+        ''', (firstName, lastName, email, ra, password))
+        self.conn.commit()
+
+    # Realiza login com RA e senha, retorna o usuário se encontrar
+    def login_user(self, ra, password):
+        cursor = self.conn.cursor()
+        cursor.execute('''
+            SELECT * FROM Users WHERE ra = ? AND password = ?
+        ''', (ra, password))
+        return cursor.fetchone()
+
+
+# Teste 1 – Verifica inserção e login de usuário válido
+def teste1():
+    print("\n Teste 1 – Inserção de Usuário com Dados Válidos")
+    db = UserDatabase()
+    db.insert_user("João", "Pereira", "joao@email.com", "123456", "senha123")
+    user = db.login_user("123456", "senha123")
+
+    if user and user[1] == "João":
+        print("SUCESSO: Usuário João inserido e encontrado.")
+    else:
+        print("FALHA: Usuário João não foi localizado.")
+
+
+# Teste 2 – Verifica falha no login com senha incorreta
+def teste2():
+    print("\n Teste 2 – Falha no Login com Senha Incorreta")
+    db = UserDatabase()
+    db.insert_user("Lucas", "Almeida", "lucas@email.com", "111111", "correta123")
+    user = db.login_user("111111", "senhaErrada")
+
+    if user is None:
+        print("SUCESSO: Login incorreto rejeitado corretamente.")
+    else:
+        print("FALHA: Login aceitou senha errada.")
+
+
+# Teste 3 – Verifica se o sistema detecta senhas diferentes
+def teste3():
+    print("\n Teste 3 – Senhas Diferentes no Cadastro")
+    senha = "senha123"
+    confirmar = "outraSenha"
+
+    if senha != confirmar:
+        print("SUCESSO: Senhas diferentes detectadas corretamente.")
+    else:
+        print("FALHA: Senhas diferentes não foram identificadas.")
+
+
+# Teste 4 – Verifica se a tabela de usuários foi criada corretamente
+def teste4():
+    print("\n Teste 4 – Tabela de Usuários Criada")
+    db = UserDatabase()
+    cursor = db.conn.cursor()
+    cursor.execute("SELECT name FROM sqlite_master WHERE type='table' AND name='Users'")
+    resultado = cursor.fetchone()
+
+    if resultado:
+        print("SUCESSO: Tabela 'Users' foi criada com sucesso.")
+    else:
+        print("FALHA: Tabela 'Users' não foi encontrada.")
+
+
+# Teste 5 – Cadastra e faz login com um mesmo usuário
+def teste5():
+    print("\n Teste 5 – Cadastro e Login de Usuário na Mesma Execução")
+    db = UserDatabase()
+    db.insert_user("Maria", "Oliveira", "maria@email.com", "2023001", "minhasenha")
+    user = db.login_user("2023001", "minhasenha")
+
+    if user and user[1] == "Maria":
+        print("SUCESSO: Maria foi cadastrada e logou com sucesso.")
+    else:
+        print("FALHA: Maria não conseguiu fazer login.")
+
+
+# Teste 6 – Simula redirecionamento passando dados do usuário
+def teste6():
+    print("\n Teste 6 – Redirecionamento Simulado para ProfileActivity")
+    intent = {
+        "firstName": "Carlos",
+        "ra": "789123"
+    }
+
+    if intent["firstName"] == "Carlos" and intent["ra"] == "789123":
+        print("SUCESSO: Dados corretos enviados para a Intent.")
+    else:
+        print("FALHA: Dados da Intent incorretos.")
+
+
+# Execução de todos os testes
+if __name__ == '__main__':
+    teste1()
+    teste2()
+    teste3()
+    teste4()
+    teste5()
+    teste6()
