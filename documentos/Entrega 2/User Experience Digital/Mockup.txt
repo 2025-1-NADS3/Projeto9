@@ -1,0 +1,63 @@
+O **Plano de Gerenciamento da Qualidade** é um documento estratégico que define como a qualidade será garantida durante o projeto. Ele inclui as diretrizes, processos e responsabilidades necessárias para alcançar os padrões de qualidade esperados.
+
+### Principais Componentes:
+
+1. **Objetivo e Escopo**: Definem o que será gerenciado em termos de qualidade e quais resultados se espera alcançar.
+   
+2. **Padrões de Qualidade**: Identificação das normas e práticas que serão seguidas, como ISO ou métodos específicos da indústria.
+
+3. **Estratégias de Qualidade**: Determina como a qualidade será integrada, incluindo testes, auditorias e controles contínuos.
+
+4. **Processos de Garantia e Controle de Qualidade**: Garantia da qualidade (prevenção de defeitos) e controle de qualidade (inspeções e testes) durante todo o ciclo de vida do projeto.
+
+5. **Papéis e Responsabilidades**: Definem as funções da equipe de qualidade, gerentes e stakeholders no gerenciamento da qualidade.
+
+6. **Métricas de Qualidade**: Definem como a qualidade será medida, como taxa de defeitos, conformidade com requisitos e satisfação do cliente.
+
+### Processo:
+1. **Planejamento**: Definir os requisitos de qualidade e as estratégias a serem seguidas.
+2. **Garantia da Qualidade**: Prevenir defeitos através de práticas contínuas de qualidade.
+3. **Controle da Qualidade**: Monitorar a qualidade com testes e inspeções, tomando ações corretivas quando necessário.
+4. **Melhoria Contínua**: Após o projeto, avaliar as lições aprendidas para melhorar processos em projetos futuros.
+
+Em resumo, o plano de qualidade assegura que todas as partes do projeto atendam aos requisitos estabelecidos, com a contínua avaliação e melhoria dos processos.
+
+
+              🖥️ **TESTE DE SOFTWARE**  
+                      │  
+    ┌────────────────────────────────┐  
+    │                                │  
+ 📋 **Planejamento**           🎨 **Design de Testes**  
+    │                                │  
+    ├→ Definir objetivo              ├→ Criar casos de teste  
+    ├→ Selecionar tipos de teste      ├→ Definir entradas/saídas esperadas  
+    ├→ Escolher ferramentas           ├→ Priorizar testes  
+    └→ Estabelecer critérios de sucesso └→ Criar roteiros e scripts  
+
+                      ↓  
+               🚀 **Execução dos Testes**  
+                      │  
+    ┌────────────────────────────────┐  
+    │                                │  
+ 🧩 **Teste Unitário**          🔗 **Teste de Integração**  
+    │                                │  
+    ├→ Testa partes isoladas         ├→ Avalia conexão entre módulos  
+    ├→ Exemplo: funções, classes     ├→ Exemplo: APIs, banco de dados  
+    │                                │  
+ 📦 **Teste de Sistema**          ✅ **Teste de Aceitação**  
+    ├→ Verifica o software completo  ├→ Valida com o usuário final  
+
+                      ↓  
+               🔍 **Relato de Defeitos**  
+                      │  
+    ├→ Registrar erros encontrados  
+    ├→ Categorizar por impacto  
+    ├→ Comunicar ao time de dev  
+    ├→ Corrigir falhas  
+                      ↓  
+            🔄 **Regressão e Validação Final**  
+                      │  
+    ├→ Retestar correções  
+    ├→ Validar desempenho e carga  
+    ├→ Garantir conformidade  
+    └→ Gerar relatório final  
