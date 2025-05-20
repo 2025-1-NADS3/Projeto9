@@ -112,12 +112,13 @@ Você pode visualizar o protótipo do projeto: [Protótipo no Figma](https://www
 
 #### 5. Sistema Operacional 🖥️
 
-- **Anroid, Windows**
+- **Android, Windows**
 
 #### 6. Ferramentas de Design 🎨
 
 - **Figma**
 - **Canva**
+- **PowerPoint**
 
 ## 📋 Licença/License
 
