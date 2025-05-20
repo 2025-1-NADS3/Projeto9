@@ -70,8 +70,7 @@ Você pode visualizar o protótipo do projeto: [Protótipo no Figma](https://www
 <div style="display: flex; align-items: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" height="40" alt="Android Studio" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40" alt="SQLite" />
-  <img src="https://github.com/devicons/devicon/blob/v2.15.0/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.0/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Firebase" />
 </div>
 
 ## 💻 Configuração para Desenvolvimento
