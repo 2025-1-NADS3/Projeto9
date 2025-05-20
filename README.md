@@ -70,7 +70,7 @@ Você pode visualizar o protótipo do projeto: [Protótipo no Figma](https://www
 <div style="display: flex; align-items: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" height="40" alt="Android Studio" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" />
-  <img src="https://github.com/devicons/devicon/blob/v2.15.0/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Firebase" />
+  <img src="https://avatars.githubusercontent.com/u/1335026?s=200&v=4" width="40" height="40" alt="Firebase" />
 </div>
 
 ## 💻 Configuração para Desenvolvimento
@@ -104,7 +104,7 @@ Você pode visualizar o protótipo do projeto: [Protótipo no Figma](https://www
 
 #### 3. Banco de Dados 🛠️
 
-- **SQLite**
+- **Firebase**
 
 #### 4. Linguagem de Programação 🖥️
 
@@ -112,7 +112,7 @@ Você pode visualizar o protótipo do projeto: [Protótipo no Figma](https://www
 
 #### 5. Sistema Operacional 🖥️
 
-- **Windows, macOS ou Linux**
+- **Anroid, Windows**
 
 #### 6. Ferramentas de Design 🎨
 
@@ -121,13 +121,10 @@ Você pode visualizar o protótipo do projeto: [Protótipo no Figma](https://www
 
 ## 📋 Licença/License
 
-Neon Academy © 2025 by FECAP; Gabriel Gonçalves Pires; Anderson Yavi Fernandez; Kaique Neres de Oliveira; Luiz Felipe Galdino de Carvalho; is licensed under CC BY 4.0
+Fecap Pay © 2025 by FECAP; Gabriel Gonçalves Pires; Anderson Yavi Fernandez; Kaique Neres de Oliveira; Luiz Felipe Galdino de Carvalho; is licensed under CC BY 4.0
 
 ## 🎓 Referências
 
-1. https://github.com/iuricode/readme-template  
-2. https://github.com/gabrieldejesus/readme-model  
-3. https://chooser-beta.creativecommons.org/  
-4. https://freesound.org/  
-5. https://www.toptal.com/developers/gitignore  
-6. Músicas por: [DaveJf](https://freesound.org/people/DaveJf/sounds/616544/) e [DRFX](https://freesound.org/people/DRFX/sounds/338986/)
+1. https://github.com/firebase/
+2. https://developer.android.com/courses?hl=pt-br 
+
