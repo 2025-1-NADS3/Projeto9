@@ -5,9 +5,9 @@
 <a href= "https://www.fecap.br/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhZPrRa89Kma0ZZogxm0pi-tCn_TLKeHGVxywp-LXAFGR3B1DPouAJYHgKZGV0XTEf4AE&usqp=CAU" alt="FECAP - Fundação de Comércio Álvares Penteado" border="0"></a>
 </p>
 
-# Nome do Projeto
+# Fecap Pay
 
-## Nome do Grupo
+## Marketada
 
 ## Integrantes: <a href="https://www.linkedin.com/in/anderson-fernandez-2aa13924b/">Anderson Yavi Fernandez</a>, <a href="https://www.linkedin.com/in/gabriel-pires-2082b473/">Gabriel Gonçalves Pires</a>, <a href="https://www.linkedin.com/in/kaique-neres-0413a8265/">Kaique Neres de Oliveira</a>, <a href="https://www.linkedin.com/in/luizfelipegcarvalho/">Luiz Felipe Galdino de Carvalho</a>.
 
